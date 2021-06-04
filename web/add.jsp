@@ -44,6 +44,7 @@
         <div class="form-group">
             <label for="address">籍贯：</label>
             <select name="address" class="form-control" id="address">
+                 <option value="台湾">台湾</option>
                 <option value="广东">广东</option>
                 <option value="上海">上海</option>
                 <option value="湖南">湖南</option>
